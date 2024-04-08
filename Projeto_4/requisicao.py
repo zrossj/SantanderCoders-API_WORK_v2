@@ -23,6 +23,7 @@ def busca_tema():
 
     return results
 
+
 print('FASE2')
 
 
